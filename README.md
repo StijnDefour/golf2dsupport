@@ -2,8 +2,8 @@
 
 Welcome to the official support page for **Golf 2D**.  
 
-If you experience any issues, need help, or have questions about the game, please use the contact information below.  
-
+If you experience any issues, need help, or have questions about the game, please use the contact information below or create an issue [here](https://github.com/StijnDefour/golf2dsupport/issues).
+ 
 ## Contact Us
 Email: golf2d.help@gmail.com
 
